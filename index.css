@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+div{
+    color: brown;
+}
+a{
+    color: brown;
+    background-color: yellow;
+}
+p{
+    color: brown;
+}
+.line{
+    letter-spacing: 5px;
+}
+.line2{
+    line-height: 150%;
+}
